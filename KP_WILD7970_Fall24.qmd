@@ -1,0 +1,39 @@
+---
+title: "KP_WILD7970_Fall24"
+author: "Kalli Parauka"
+format: html
+editor: visual
+---
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![This image shows a scientist holding an Erlenmeyer flask filled with green liquid. She is wearing a white labcoat, green shirt, tan pants, and red shoes. ](images/tools.png)
+
+------------------------------------------------------------------------
+
+**Writing Prompt - Week 2**
+
+*First, describe what you consider to be one of the most ground-breaking or "disruptive" papers in your field. Next, describe the most ground-breaking or disruptive paper in your field in the past 5-10 years. Do you believe the disruptive or paradigm-shifting nature of the work in your field has declined in recent years? Why or why not?*
+
+"The River Continuum Concept (RCC)" authored by Vannote et al. 1980 was (and perhaps still is) one of the most influential papers in fisheries and stream ecology. Essentially, it proposed a comprehensive framework for understanding the structure and function of lotic ecosystems with an emphasis on longitudinal connectivity from headwaters to mouth. Its interdisciplinarity was revolutionary, since it incorporates principles from geomorphology, biology, and biogeochemistry. And its mechanistic nature enabled predictions about changes in nutrient cycling, energy flow, and community structure along a longitudinal gradient, which represented a major shift in stream ecology (at the time) from descriptive- to predictive research approaches.
+
+Finding a current "disruptive" paper was difficult. I think that fisheries and stream ecology had a little bit of a renaissance from the late 70s or so until the early 2000s in which a lot of pivotal pieces of literature were published. Since then, it seems like the field has largely been exploring the implications of those studies (as well as quantitative and statistical methods, which may very well be undergoing a renaissance of their own, though I don't feel confident speaking to that). I had to reach a bit (*sorry!*) to find a more current paper that would be considered ground-breaking and landed on "Species detection using environmental DNA from water samples" published in Biology Letters by Ficetola et al. (2008). This study was conducted on American bullfrogs, but has had extraordinary implications and utility for fisheries and aquatic ecology more generally. It demonstrated an efficient, non-invasive, and highly sensitive method of detecting the presence of specific aquatic organisms, which facilitated later applications to monitoring invasive and cryptic species. eDNA monitoring techniques are still in development, but show substantial promise with regard to what they can offer scientists.
+
+I'm really hesitant to admit that disruptive science is declining in fisheries ecology, in part because I think that's a rather pessimistic view of the field. But it seems like the difficulty that I had finding a current, paradigm-shifting paper would support that trend. For better or worse, I think what I'm going to choose to believe is that there's some sort of periodicity to science - that there are probably prolonged seasons of consolidating science punctuated by shorter periods of lots of disruptive science. I think that perspective somewhat reconciles declines in disruptive science with a more optimistic point of view.
+
+------------------------------------------------------------------------
