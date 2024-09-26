@@ -48,7 +48,7 @@ I actually took an R-based ecological analysis course in my final semester of un
 
 That being said, there's one really great new program that I'm excited about using in my research. Really all it does is streamline the sonar image processing that I have to do, but it's open source and represents an important step towards democratizing sonar surveys. Besides that, I'm trying to keep the computing in my research as simple as possible.
 
------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 **Writing Prompt - Week 4**
 
@@ -57,3 +57,15 @@ That being said, there's one really great new program that I'm excited about usi
 I don't think that disagreement between reviewers or between authors and reviewers is inherently a bad thing. In fact, I think it can serve as an effective system of checks and balances when the peer review process is functioning the way it should. More eyes on a manuscript should mean that flaws which might go unnoticed by one reviewer would get caught by another. And reviews and recommendations should conflict sometimes because they're composed by humans who draw from different knowledge bases and experiences when formulating them. I think disagreements that arise in good faith are an important safeguard against scientific echo chambers.
 
 And I think this is a fairly healthy framework for thinking about criticism, though its probably much more difficult to consider the bigger picture when faced with this scenario in "real life." I've not yet submitted a manuscript of my own, so I really don't have any first hand experience with this process from the author's perspective. But, I like to think I could accept disagreement between reviewers as an expression of checks and balances. And I'd like to think that I could consider my material in light of their perspectives and make a decision on what to keep, edit, or delete. I'd also like to think that if there was feedback that I had a good reason for disagreeing with, I'd stand by my work. I'm sure that's too idealistic and maybe a little reductive, but academia hasn't quite turned me into a cynic yet.
+
+------------------------------------------------------------------------
+
+## Writing Prompt - Week 5
+
+*Discuss the implications of predatory journals on scientific credibility, public perception, and the spread of misinformation in today's climate of growing anti-science sentiment. We would love to hear about a relevant example from your discipline.*
+
+Predatory journals are definitely damaging to scientific credibility and public perception of science. I think that's virtually indisputable. And I think the reasoning behind that is straightforward: they're a mechanism by which poorly executed science can receive a false stamp of approval and be distributed to a broader audience. I also think that most everyone is going to mention social media somewhere in response to this prompt, and they'll probably all say something to the effect of social media and predatory journals being a dangerous combination. All of that seems pretty obvious, and I agree.
+
+But regarding the circulation of misinformation, I don't think there's really much that anyone can do on the back end of things. Once a paper is "out there" in the "real world" no one can rightfully control how others choose to use it. I guess on the front end, authors could try to write in a way that minimizes the possibility of misinterpretation and choose to publish in reputable journals. But as long as the predatory journal model is profitable, they (and the "bad" science they propagate) won't go away. If their stream of revenue is coming from authors, then that's probably where the opportunity to influence their success lies. I think as a community, holding other scientists accountable to the processes that give science its rigor and credibility and penalizing those who knowlingly violate those processes is a good place to start.
+
+Truthfully, I don't have a great example from fisheries off the top of my head. However, there's an ongoing issue with the College of Ag routinely publishing in MDPI journals.
