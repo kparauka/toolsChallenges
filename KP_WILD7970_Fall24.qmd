@@ -69,3 +69,17 @@ Predatory journals are definitely damaging to scientific credibility and public 
 But regarding the circulation of misinformation, I don't think there's really much that anyone can do on the back end of things. Once a paper is "out there" in the "real world" no one can rightfully control how others choose to use it. I guess on the front end, authors could try to write in a way that minimizes the possibility of misinterpretation and choose to publish in reputable journals. But as long as the predatory journal model is profitable, they (and the "bad" science they propagate) won't go away. If their stream of revenue is coming from authors, then that's probably where the opportunity to influence their success lies. I think as a community, holding other scientists accountable to the processes that give science its rigor and credibility and penalizing those who knowlingly violate those processes is a good place to start.
 
 Truthfully, I don't have a great example from fisheries off the top of my head. However, there's an ongoing issue with the College of Ag routinely publishing in MDPI journals.
+
+------------------------------------------------------------------------
+
+## Writing Prompt - Week 6
+
+*Dr. Andrews develops an amazing research idea. She and her postdoc bring in 4 collaborators from other universities and they all work to write a proposal which is funded for almost 3 million dollars. From there, Dr. Andrews has almost nothing to do with the implementation of the project. Her postdoc handles the work in her lab, and the collaborators each hire graduate students to handle the work in their labs. Three years later, when all of the data have been collected, Dr. Andrews expects to be an author on every paper associated with this grant (the project was her idea after all), but this was NOT discussed ahead of time.*
+
+*Pretend you are one of Dr. Andrews' collaborators. Would you agree to have her on every paper you and your graduate student publish from this grant? Do you think this is a reasonable request? Justify your answer, and discuss how you would handle discussing this with Dr. Andrews.*
+
+My initial impression is that this is not a completely unreasonable request. Developing the idea and helping secure (substantial) funding for the project...that's a nontrivial contribution. The scenario also doesn't really specify what happened after data collection. If Dr. Andrews provided expertise with regards to data analysis or participated in the manuscript revision process, then by all means, include them.
+
+But for argument's sake, if their involvement ended after funding was secured, I think that I'd probably just include them as an author and be done with it. It really doesn't seem like a hill worth dying on, in my opinion. After all, it sounds like the project would have been a nonstarter without their early contributions. And if they're not expecting to be the second, third, fourth author...who cares? It doesn't cost anything to include them (does it?) and it saves everyone the headache of trying to resolve a conflict delicately.
+
+This is an interesting scenario though. It's almost the exact opposite of one that a (past) member of my lab is experiencing right now. In both cases, it comes down to authorship as a form of social currency in science. I think that sometimes you're better off just paying up, because the consequences of burning a bridge to prove a point can be harmful to the entire ecosystem of researchers that you're a part of.
